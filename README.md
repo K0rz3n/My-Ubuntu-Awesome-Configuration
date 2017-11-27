@@ -646,7 +646,7 @@ Total ${totaldown wlan0} ${alignr}Total ${totalup wlan0}
 ```
 
 
-### i3wm 桌面环境
+### 二、i3wm 桌面环境
 详细讲解在 YouTobe
 视频一https://www.youtube.com/watch?v=j1I63wGcvU4
 视频二https://www.youtube.com/watch?v=8-S0cWnLBKg
