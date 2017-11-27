@@ -1,6 +1,9 @@
 # Ubuntu config
 
 ### 一、普通桌面环境
+#### 最终效果图
+![](http://omjtvvl8z.bkt.clouddn.com/Ubuntu%E5%8E%9F%E5%A7%8B.png)
+
 
 #### 1.换源
 ```
@@ -647,6 +650,15 @@ Total ${totaldown wlan0} ${alignr}Total ${totalup wlan0}
 
 
 ### 二、i3wm 桌面环境
+#### 效果图一览
+主屏
+![](http://omjtvvl8z.bkt.clouddn.com/i3wm.png)
+软件查找rofi
+![](http://omjtvvl8z.bkt.clouddn.com/rofi.png)
+锁屏
+![](http://omjtvvl8z.bkt.clouddn.com/i3lock.jpg)
+
+
 详细讲解在 YouTobe
 视频一https://www.youtube.com/watch?v=j1I63wGcvU4
 视频二https://www.youtube.com/watch?v=8-S0cWnLBKg
