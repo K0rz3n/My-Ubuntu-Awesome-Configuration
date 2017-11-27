@@ -180,7 +180,9 @@ matchit
 	 Plugin 'godlygeek/tabular.git'
 	 Plugin 'vim-scripts/matchit.zip.git'
 
-然后：PluginInstall
+然后	
+	
+	：PluginInstall
 
 ##### 然后是插件配置。
 
@@ -662,8 +664,10 @@ http://blog.csdn.net/RichardYan314/article/details/52648670
 	cd ~/.config/i3
 	vim config
 在文件末尾添加
+	
 	bindsym  $mod + x  exec  i3lock
 刷新i3(使一些配置生效)
+	
 	Mod+Shift+R
 #### 更换背景
 ```
@@ -674,6 +678,7 @@ mkdir Picture
 
 	sudo apt-get install -y  feh
 进入配置文件   
+	
 	exec_always   feh --bg-scale 图片绝对路径
 
 ###### 注意：vim 没有行号的时候可以输入命令 :set number
@@ -766,6 +771,7 @@ https://github.com/horst3180/arc-firefox-theme
 #### 安装thunar 
 	sudo  apt-get install -y thunar
 安装 图标
+	
 	sudo apt-get install -y gnome-icon-theme-full
 图形化文件管理系统
 
@@ -827,6 +833,7 @@ https://github.com/Lixxia/i3lock
 	status_command i3blocks -c /etc/i3blocks.conf
 
 time 部分的 
+	
 	interval =1
 
 volume 部分
