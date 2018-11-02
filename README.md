@@ -2,7 +2,7 @@
 
 ### 一、普通桌面环境
 #### 最终效果图
-![](http://omjtvvl8z.bkt.clouddn.com/Ubuntu%E5%8E%9F%E5%A7%8B.png)
+![](https://picture-1253331270.cos.ap-beijing.myqcloud.com/Ubuntu%E5%8E%9F%E5%A7%8B.png)
 
 
 #### 1.换源
